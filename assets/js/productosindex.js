@@ -11,7 +11,7 @@ class Producto{
 
 const PRODUCTOS = [
 new Producto({edicion: "Sustainable Materials", nombre: "Nike air max 90",precio: "130",genero: "Men's Shoes",img: "nikearimax90.jpg"}),
-new Producto({edicion: "Just in", nombre: "Nike AF 1/1",precio: "140",genero: "women's Shoes", img: "nikeaf.jpg"}),
+new Producto({edicion: "Just in", nombre: "Nike AF 1/1",precio: "140",genero: "women's Shoes", img: "NikeAf.jpg"}),
 new Producto({edicion: "Coming soon", nombre: "Nike air max",precio: "160",genero: "Men's Shoes", img: "nikearimax2021.jpg"}),
 new Producto({edicion: "Coming soon", nombre: "Nike air max",precio: "160",genero: "Men's Shoes", img: "nikearimax2021.jpg"}),
 new Producto({edicion: "Coming soon", nombre: "Nike air max",precio: "160",genero: "Men's Shoes", img: "nikearimax2021.jpg"}),
